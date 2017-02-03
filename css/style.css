@@ -1,5 +1,12 @@
-
 header
 {
 color: blue ;
+text-align: center;   
+}
+
+.link{
+	text-decoration: none;
+}
+.link:hover{
+	color:red;
 }
