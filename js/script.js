@@ -16,7 +16,7 @@ function homePageLoading() {
     elementID = 'info';
     webservice(url, elementID);
     
-    url = 'http://bitcoin.mubiz.com/blockchaininfo;
+    url = 'http://bitcoin.mubiz.com/blockchaininfo';
     elementID = 'blockchaininfo';
     webservice(url, elementID);
     
