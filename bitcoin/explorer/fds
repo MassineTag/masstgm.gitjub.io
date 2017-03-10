@@ -21,8 +21,6 @@
           <a href="https://tagsanchez.github.io/index.html" class="link">Lien vers accueil</a>
         
         </header>
- 
-    <article> 
 
 <form>
   <div class="form-group">
@@ -45,6 +43,5 @@
   </div>
   <button type="submit" class="btn btn-default">Submit</button>
 </form>
-      
-    </article>  
+     
     </body> 
