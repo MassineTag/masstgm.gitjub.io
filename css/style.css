@@ -1,12 +1,53 @@
-header
-{
-color: blue ;
-text-align: center;   
+ *
+ {
+    font-family: Arial;
+    font-weight: bold;
+ } 
+ header
+  {
+
+  	color : white;
+  }
+
+ body
+ { 
+    background: url("texture5.jpg");
+
+
+ } 
+ h1
+ {
+    font-weight: bold;
+    font-size: 100px;
+    text-align: center;
+    color: navy;
+    text-shadow: 2px 2px 4px blue;
+ } 
+
+ div
+ {
+ 	color: white;
+ }
+
+h2
+{ 
+	color: white;
+
 }
 
-.link{
-	text-decoration: none;
+article
+
+{
+	color : white;
 }
-.link:hover{
-	color:red;
-}
+
+ .intro
+ {
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    border-bottom: 2px solid;
+    padding-bottom: 15px;
+    color: white;
+ }
+ 
